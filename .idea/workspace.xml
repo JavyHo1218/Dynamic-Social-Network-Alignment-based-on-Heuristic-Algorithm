@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07e31594-ccb2-41c3-80c3-28946ca4f45e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cO3f0tqGCPFJC66zfuVcAfCmSg" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.7491369" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/main/java/dyn/BasicUnit.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utils" />
+      <recent name="dyn" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea\dyn\src\main\java\dyn" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.HDyNA">
+    <configuration name="HDyNA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.HDyNA" />
+      <module name="HDyNA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IONE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalModel.IONE" />
+      <module name="HDyNA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FinalModel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="addWeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dyn.ModelWith2OrderNorm.addWeight" />
+      <module name="HDyNA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dyn.ModelWith2OrderNorm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getPrecision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.getPrecision" />
+      <module name="HDyNA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="supervisedAnchorLearning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalModel.supervisedAnchorLearning" />
+      <module name="HDyNA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FinalModel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HDyNA" />
+        <item itemvalue="Application.getPrecision" />
+        <item itemvalue="Application.IONE" />
+        <item itemvalue="Application.supervisedAnchorLearning" />
+        <item itemvalue="Application.addWeight" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07e31594-ccb2-41c3-80c3-28946ca4f45e" name="Default Changelist" comment="" />
+      <created>1590324742674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590324742674</updated>
+      <workItem from="1590324745761" duration="3268000" />
+      <workItem from="1590328039890" duration="1165000" />
+      <workItem from="1590385912971" duration="3394000" />
+      <workItem from="1590389564341" duration="925000" />
+      <workItem from="1590394042337" duration="970000" />
+      <workItem from="1590395028195" duration="8000" />
+      <workItem from="1590404029940" duration="2213000" />
+      <workItem from="1590406589555" duration="4809000" />
+      <workItem from="1590413002180" duration="3446000" />
+      <workItem from="1590479071916" duration="15874000" />
+      <workItem from="1590541896964" duration="22189000" />
+      <workItem from="1590628871616" duration="20301000" />
+      <workItem from="1590715202915" duration="671000" />
+      <workItem from="1590717595861" duration="4333000" />
+      <workItem from="1590740372099" duration="509000" />
+      <workItem from="1590802578871" duration="3440000" />
+      <workItem from="1590821748639" duration="5998000" />
+      <workItem from="1590888250788" duration="1517000" />
+      <workItem from="1590981380951" duration="1727000" />
+      <workItem from="1591067281748" duration="5297000" />
+      <workItem from="1591168788664" duration="4372000" />
+      <workItem from="1591188462921" duration="617000" />
+      <workItem from="1591604890480" duration="1150000" />
+      <workItem from="1591606304516" duration="148000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/FinalModel/IONEUpdate.java</url>
+          <line>326</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/FinalModel/IONEUpdate.java</url>
+          <line>335</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
